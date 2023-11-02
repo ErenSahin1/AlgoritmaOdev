@@ -11,3 +11,6 @@ int input=sc.nextInt ();
 {else if (input<0) {
       system.out.println("Negatif bir sayıdır") ;
 {
+
+Eren Şahin 
+Bilgisayar Teknolojisi - 2311290007
