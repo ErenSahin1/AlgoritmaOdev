@@ -10,6 +10,6 @@ If(input>0) {
       System.out.println("Pozitif bir sayıdır.") ;
 {else if (input<0) {
       system.out.println("Negatif bir sayıdır") ;
-{
 
-
+      }
+}
